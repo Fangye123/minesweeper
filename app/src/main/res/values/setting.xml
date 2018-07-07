@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="top_item_width">20dp</dimen>
+    <dimen name="top_item_height">36dp</dimen>
+    <dimen name="max_item_width">60dp</dimen>
+    <dimen name="top_time_width">20dp</dimen>
+    <dimen name="top_time_height">36dp</dimen>
+    <dimen name="max_time_width">95dp</dimen>
+
+    <dimen name="cell_width">50dp</dimen>
+    <dimen name="cell_height">50dp</dimen>
+
+</resources>
